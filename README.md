@@ -106,7 +106,7 @@
 
 | Project | Description | Stack |
 |---------|-------------|-------|
-| **[ApplyWise AI](https://github.com/updesh-4)** | RAG-ready resume customization assistant — match score, skill-gap analysis, ATS-optimized sections, cover letter & interview questions | React, Vite, FastAPI, Python, DeepSeek LLM |
+| **[ApplyWise AI](https://github.com/updesh-4/ApplyWise-AI)** | RAG-ready resume customization assistant — match score, skill-gap analysis, ATS-optimized sections, cover letter & interview questions | React, Vite, FastAPI, Python, DeepSeek LLM |
 | **[BiteGram](https://github.com/updesh-4)** | Real-time food-delivery platform with live tracking, dual payments & cloud media | React, Node, Express, MongoDB, Socket.io, Razorpay |
 | **[MindMate](https://github.com/updesh-4)** | AI mental-health platform — Gemini therapy chat, mood tracking & mindfulness activities | Next.js, TypeScript, MongoDB, Google Gemini |
 

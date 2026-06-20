@@ -106,6 +106,7 @@
 
 | Project | Description | Stack |
 |---------|-------------|-------|
+| **[DevConnect API](https://github.com/updesh-4/DevConnect-API)** | Q&A backend exposing REST **and** GraphQL over one OOP service layer, with SQL + Redis caching, JWT auth & rate limiting | Node, Express, GraphQL, Redis, Prisma, Docker |
 | **[DocuMind](https://github.com/updesh-4/DocuMind)** | True RAG chatbot — upload PDFs & get cited, grounded answers (embeddings + vector retrieval + anti-hallucination) | FastAPI, Python, React, Google Gemini, Vector Search |
 | **[ApplyWise AI](https://github.com/updesh-4/ApplyWise-AI)** | RAG-ready resume customization assistant — match score, skill-gap analysis, ATS-optimized sections, cover letter & interview questions | React, Vite, FastAPI, Python, DeepSeek LLM |
 | **[BiteGram](https://github.com/updesh-4/BiteGram)** | Real-time food-delivery platform with live tracking, dual payments & cloud media | React, Node, Express, MongoDB, Socket.io, Razorpay |
